@@ -1,0 +1,25 @@
+# -*- text -*-
+#
+# Copyright (c) 2008      The University of Tennessee and The University
+#                         of Tennessee Research Foundation.  All rights
+#                         reserved.
+# Copyright (c) 2008      Institut National de Recherche en Informatique
+#                         et Automatique. All rights reserved.
+# $COPYRIGHT$
+# 
+# Additional copyrights may follow
+# 
+# $HEADER$
+#
+# This is the US/English help file for Open MPI MCA error messages.
+#
+[nodelist-failed]
+While trying to determine what resources are available, OAR failed when
+queried for a list of available nodes. This may indicate a problem with
+OAR or your cluster.
+
+[no-nodes-avail]
+While trying to determine what resources are available, OAR returned
+a list of available nodes from which we were unable to extract anything
+usable. This may indicate a problem with OAR or your cluster.
+
